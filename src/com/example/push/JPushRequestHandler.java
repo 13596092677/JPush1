@@ -307,5 +307,6 @@ public class JPushRequestHandler {
 //        JPushClientUtil.sendToAllAndroid("Academicheadlines", "您订阅的关键词有更新", "", "", "topic" + "_subscribe", "33");
 //        keywordPush(1,10);
         topicPush(1,10);
+        conferencePush(1, 10);
     }
 }
